@@ -58,6 +58,7 @@ except ValueError:
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
     """<b>Hai {mention}
+
 anda harus bergabung melalui tombol dibawah ini terlebih dahulu
 
 VVIP BOKEP @VvipSchool<b>
