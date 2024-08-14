@@ -57,9 +57,10 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    """Hai {mention} anda harus bergabung melalui tombol dibawah ini terlebih dahulu
+    """<b>Hai {mention}
+    anda harus bergabung melalui tombol dibawah ini terlebih dahulu
 
-VVIP BOKEP @VvipSchool
+VVIP BOKEP @VvipSchool<b>
     """,
 )
 
