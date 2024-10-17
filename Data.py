@@ -6,8 +6,6 @@ from pyrogram.types import InlineKeyboardButton
 
 class Data:
     HELP = """
-𝗣𝗥𝗜𝗖𝗘 𝗟𝗜𝗦𝗧 𝗩𝗩𝗜𝗣 💰
-
 — VVIP INDO : Rp. 30.000,-
 — VVIP HIJAB : Rp. 35.000,-
 — VVIP ONLYFANS : Rp. 35.000,-
